@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "NLP | Deep Learning | Computer Vision | Machine Learning | Data Analytics | Information Retrieval | Artificial Intelligence"
   location         : "Lahore, Pakistan"
-  employer         : "Lahore University of Management Sciences (LUMS)"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com.pk/citations?hl=en&user=EL0C_7cAAAAJ"
   email            :
@@ -106,7 +106,7 @@ author:
   orcid            : "http://orcid.org/0000-0001-6237-3388"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/7280300/sal-a?tab=profile"
+  stackoverflow    : "7280300/sal-a?tab=profile"
   steam            :
   tumblr           :
   twitter          : 
