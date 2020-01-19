@@ -1,9 +1,9 @@
 ---
 title: "5- A Multi-cascaded Deep Model for Bilingual SMS Classification"
 collection: publications
-permalink: /publication/12/12/2019-bilingual_sms
+permalink: /publication/14/12/2019-bilingual_sms
 excerpt: ''
-date: 12/12/2019
+date: 14/12/2019
 venue: 'International Conference on Neural Information Processing (ICONIP)'
 paperurl: 'https://doi.org/10.1007/978-3-030-36708-4_24'
 citation: '<strong>Muhammad Haroon Shakeel</strong>, Asim Karim, Imdadullah Khan (2019).A Multi-cascaded Deep Model for Bilingual SMS Classification. <i>International Conference on Neural Information Processing (ICONIP)</i>.'
