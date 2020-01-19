@@ -78,6 +78,7 @@ for row, item in publications.iterrows():
     
     #if len(str(item.excerpt)) > 5:
     #    md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
+    md += "\nexcerpt: ''"
     
     md += "\ndate: " + str(item.pub_date) 
     

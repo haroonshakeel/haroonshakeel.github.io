@@ -1,7 +1,8 @@
 ---
-title: "Virtualization security: analysis and open challenges"
+title: "1- Virtualization security: analysis and open challenges"
 collection: publications
 permalink: /publication/10/6/2015-virtualization_security
+excerpt: ''
 date: 10/6/2015
 venue: 'International Journal of Hybrid Information Technology'
 paperurl: 'https://www.earticle.net/Article/A241946'
