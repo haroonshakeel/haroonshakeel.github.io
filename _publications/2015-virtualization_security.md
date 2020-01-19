@@ -6,7 +6,7 @@ excerpt: 'Virtualization has many applications within any organization. This mak
 date: 10/6/2015
 venue: 'International Journal of Hybrid Information Technology'
 paperurl: 'https://pdfs.semanticscholar.org/e750/ffcb54ab10582f34b93c62b1147c238ea6c2.pdf'
-citation: 'Arif, M., Shakeel, H. (2015). &quot;Virtualization security: analysis and open challenges.&quot; <i>International Journal of Hybrid Information Technology</i>. 8(2).'
+citation: 'Arif, M., **Shakeel, H.** (2015). &quot;Virtualization security: analysis and open challenges.&quot; <i>International Journal of Hybrid Information Technology</i>. 8(2).'
 ---
 
 <a href='https://pdfs.semanticscholar.org/e750/ffcb54ab10582f34b93c62b1147c238ea6c2.pdf'>Download paper here</a>
