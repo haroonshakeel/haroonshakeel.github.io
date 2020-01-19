@@ -53,7 +53,7 @@
     {% endif %}
     
     {% if post.citation %}
-      <p> <a href = "{{ post.paperurl }} ">{{ post.citation }}</a></p>
+      <p><strong><u>Citation as:</u></strong> {{ post.citation }} </p>
     {% elsif post.paperurl %}
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
