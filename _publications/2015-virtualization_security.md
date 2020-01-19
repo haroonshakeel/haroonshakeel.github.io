@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/10/6/2015-virtualization_security
 excerpt: ''
 date: 10/6/2015
-venue: 'International Journal of Hybrid Information Technology'
+venue: 'International Journal of Hybrid Information Technology (IJHIT)'
 paperurl: 'https://www.earticle.net/Article/A241946'
-citation: 'Muhammad Arif, <strong>Muhammad Haroon Shakeel,</strong> (2015). Virtualization security: analysis and open challenges. <i>International Journal of Hybrid Information Technology</i>. 8(2).'
+citation: 'Muhammad Arif, <strong>Muhammad Haroon Shakeel,</strong> (2015). Virtualization security: analysis and open challenges. <i>International Journal of Hybrid Information Technology (IJHIT)</i>. 8(2).'
 ---
 
 <a href='https://pdfs.semanticscholar.org/e750/ffcb54ab10582f34b93c62b1147c238ea6c2.pdf'>Download paper here</a>
