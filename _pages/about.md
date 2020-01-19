@@ -14,4 +14,6 @@ News
 ======
 * Paper accepted at ACM-SAC 2020.
 * Paper accepted in Information Processing and Management Journal,  Vol 57, Issue 3, 2020.
+* Paper accepted at IEEE-AECT 2020.
 * Two papers accepted at International Conference on Neural Information Processing (ICONIP) 2019. 
+* Paper accepted at IEEE-ACCESS, 2019.
