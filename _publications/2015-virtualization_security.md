@@ -5,7 +5,7 @@ permalink: /publication/10/6/2015-virtualization_security
 excerpt:
 date: 10/6/2015
 venue: 'International Journal of Hybrid Information Technology'
-paperurl:
+paperurl: 'https://www.earticle.net/Article/A241946'
 citation: 'Arif, M.; <strong>Shakeel, H.</strong> (2015). &quot;Virtualization security: analysis and open challenges.&quot; <i>International Journal of Hybrid Information Technology</i>. 8(2).'
 ---
 
