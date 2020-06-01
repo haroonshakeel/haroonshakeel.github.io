@@ -20,4 +20,6 @@ main:
 
   - title: "Research Statement"
     url: /files/research_statement.pdf
-
+  
+  #- title: "PhD Thesis"
+  #  url: /files/Deep_Learning_Methods_for_Short_Informal_and_Multilingual_Text_Analytics_V3.pdf
